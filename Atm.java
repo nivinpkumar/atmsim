@@ -18,7 +18,6 @@ import java.awt.event.MouseListener;
 import java.awt.event.ItemEvent;
 import java.text.*;
 import java.util.*;
-import java.io.*;
 
 class Atm extends JFrame implements ActionListener,MouseListener
 { 
